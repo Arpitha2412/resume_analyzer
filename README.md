@@ -25,15 +25,4 @@ Backend Processing: Python (NLTK, spaCy, fpdf, docx2txt, PyPDF2)
 
 File Handling: Supports .pdf and .docx resume formats
 
-Theme Customization: Streamlit config.toml + dark/light mode toggle
-
-🚀 Getting Started
-1️⃣ Clone the Repository
-git clone https://github.com/yourusername/resume-analyzer.git
-cd resume-analyzer
-
-2️⃣ Install Dependencies
-pip install -r requirements.txt
-
-3️⃣ Run the App
-streamlit run app.py
+Theme Customization: Streamlit config.toml 
